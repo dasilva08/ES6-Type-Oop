@@ -10,4 +10,6 @@ Links de leitura docs e algo mais
 
 [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86)
 
+[Guia básico de ES6 (ECMAScript 2015)](https://github.com/cod3rkane/guia-basico-ES6)
+
 [Introdução ao JavaScript Orientado a Objeto](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)

@@ -14,4 +14,4 @@ Links de leitura docs e algo mais
 
 [Introdução ao JavaScript Orientado a Objeto](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
-[OOP](http://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)
+[Os 4 pilares da Programação Orientada a Objetos](http://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)

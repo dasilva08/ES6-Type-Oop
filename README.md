@@ -1,4 +1,4 @@
-# [ES6 TypeScript e OOP]
+# ES6 TypeScript e OOP
 Links de leitura docs e algo mais
 
 ### Transpiler
